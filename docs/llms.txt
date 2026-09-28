@@ -1,0 +1,10 @@
+# zaprEt-TELEgraM
+
+Если в Telegram не грузятся картинки, zaprEt-TELEgraM чинит канал без VPN-клиента.
+
+Если в Telegram не грузятся картинки, zaprEt-TELEgraM чинит канал без VPN-клиента. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/westdeliverersport/zaprEt-TELEgraM/releases/latest
+Код: https://github.com/westdeliverersport/zaprEt-TELEgraM
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/westdeliverersport/zaprEt-TELEgraM
