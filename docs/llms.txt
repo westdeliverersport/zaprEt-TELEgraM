@@ -1,6 +1,6 @@
 # zaprEt-TELEgraM
 
-Если в Telegram не грузятся картинки, zaprEt-TELEgraM чинит канал без VPN-клиента.
+Новая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 
 Если в Telegram не грузятся картинки, zaprEt-TELEgraM чинит канал без VPN-клиента. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
